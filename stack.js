@@ -1,5 +1,5 @@
 class Stack {
-	constructor(item) {
+	constructor() {
 		this.stack = []
 		this.count = 0;
 
